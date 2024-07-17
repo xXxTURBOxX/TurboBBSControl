@@ -1,5 +1,5 @@
 ModToolVersionData = {
-  LoadingBarEndTime = 7,
+  LoadingBarEndTime = 1,
   ClientHeader = "Turbo Client v1.0.1_Stable",
   UpdatedForGameVersion = "16.1.0",
   CurrentTableVersion = "1.0.1",
