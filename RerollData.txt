@@ -1,0 +1,172 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\KLab]
+
+[-HKEY_CURRENT_USER\Software\KLab\BleachBraveSouls]
+[HKEY_CURRENT_USER\Software\KLab\BleachBraveSouls]
+"Screenmanager Stereo 3D_h1665754519"=dword:00000001
+"Screenmanager Resolution Width Default_h680557497"=dword:00000640
+"Screenmanager Resolution Height Default_h1380706816"=dword:00000384
+"Screenmanager Resolution Use Native Default_h1405981789"=dword:00000001
+"Screenmanager Fullscreen mode Default_h401710285"=dword:00000003
+"UnitySelectMonitor_h17969598"=dword:00000000
+"Screenmanager Window Position X_h4088080503"=dword:00000027
+"Screenmanager Window Position Y_h4088080502"=dword:00000037
+"Screenmanager Resolution Width_h182942802"=dword:00000640
+"Screenmanager Resolution Window Width_h2524650974"=dword:00000640
+"Screenmanager Resolution Height_h2627697771"=dword:00000384
+"Screenmanager Resolution Window Height_h1684712807"=dword:00000384
+"Screenmanager Resolution Use Native_h1405027254"=dword:00000000
+"Screenmanager Fullscreen mode_h3630240806"=dword:00000003
+"unity.player_session_count_h922449978"=hex:32,00
+"unity.player_sessionid_h1351336811"=hex:37,39,39,30,34,35,33,31,31,35,34,33,\
+  37,36,30,33,33,31,39,00
+"window_resolution_h2635645048"=dword:00000001
+"full_screen_enable_h663022651"=dword:00000000
+"browser_startup_h2907241459"=dword:00000001
+"MasterKey1_h3417775103"=dword:3b599356
+"MasterKey2_h3417775100"=dword:1657f0da
+"MasterKey3_h3417775101"=dword:1df6480b
+"sound_bank4_initial_activation_flag_last_id_h3794660533"=dword:00001131
+"privacy_policy_version_h658435673"=dword:00000001
+"CurrentLanguage_h413354046"=dword:00000001
+"new_player_not_joined_with_guild_h3609734962"=dword:00000001
+"MasterHash_h3417806411"=hex:35,62,64,32,32,32,62,36,36,38,65,36,31,30,63,64,\
+  33,64,63,36,64,34,64,65,39,35,61,62,39,61,65,38,34,34,63,64,34,35,32,37,00
+"option_message_speed_h2639920970"=dword:00000001
+"option_auto_lock_character_h2120336452"=dword:00000001
+"option_auto_lock_accessory_h2792962365"=dword:00000000
+"option_ad_all_h3514834018"=dword:00000001
+"option_ad_daily_h841357466"=dword:00000001
+"option_ad_gacha_h835709391"=dword:00000001
+"option_ad_ap_h3099972178"=dword:00000001
+"option_ad_result_reward_h1074687906"=dword:00000001
+"option_ad_exp_up_h2067601300"=dword:00000001
+"option_ad_arena_h838335098"=dword:00000001
+"option_use_of_hand_h2320278032"=dword:00000000
+"option_skill_cut_subtitle_h2363529902"=dword:00000000
+"option_show_story_cleared_h2050538241"=dword:00000000
+"is_use_display_chat_in_quest_h4104884742"=dword:00000000
+"is_use_display_chat_in_arena_h4087104025"=dword:00000000
+"is_show_player_latest_state_h802882659"=dword:00000001
+"is_guild_invite_offer_h3933797922"=dword:00000000
+"option_stop_sleep_mode_h261894829"=dword:00000000
+"option_high_quality_mode_h1914435673"=dword:00000001
+"option_camera_zoom_h1234363560"=dword:00000000
+"option_push_all_h69881849"=dword:00000001
+"option_push_action_point_heal_h1816098986"=dword:00000001
+"option_push_battle_point_heal_h2846340798"=dword:00000001
+"option_push_arena_point_heal_h2276499629"=dword:00000001
+"option_push_unei_h2305658895"=dword:00000001
+"option_push_event_start_h646547115"=dword:00000001
+"option_push_event_end_h931360292"=dword:00000001
+"option_auto_use_ex_skill_on_team_battle_h2567286415"=dword:00000001
+"option_emit_effect_type_on_solo_play_h4122848710"=dword:00000001
+"option_emit_effect_type_on_multi_play_h1068338160"=dword:00000001
+"option_emit_effect_type_on_arena_h160143451"=dword:00000001
+"option_emit_effect_type_on_team_battle_h3309431146"=dword:00000001
+"option_buddy_sub_control_character_h3732930770"=dword:00000000
+"option_bgm_volume_h3281254502"=hex(4):00,00,00,00,00,80,51,40
+"option_se_volume_h3804246008"=hex(4):00,00,00,00,00,80,51,40
+"option_voice_volume_h4147154584"=hex(4):00,00,00,00,00,80,51,40
+"mission_beginner_theater_progress_h2899168014"=dword:00000000
+"sound_bank4_tutorial_flag_last_id_h3646474220"=dword:000011a5
+"is_first_ad_initialize_h2858174263"=dword:00000000
+"option_notice_display_h1822256934"=dword:00000000
+"default_auto_mode_is_true_h3638298286"=dword:00000001
+"guild_quest_auto_mode_is_true_h2444512975"=dword:00000000
+"is_guild_can_request_h3589594190"=dword:00000001
+"is_level_blink_h4194453483"=dword:00000001
+"is_ex_skill_gauge_release_h2434878571"=dword:00000001
+"option_privacy_agreement_send_crash_report_h3512452512"=dword:00000001
+
+"QuestDataManagerCommonQuestType_h429646995"=hex:4d,61,69,6e,00
+"beginner_mission_theater_h3490586668"=dword:00000001
+"Difficulty_h3179608694"=dword:00000000
+"AreaId_h2503932223"=dword:00000001
+"StageId_h2176154444"=dword:00000002
+"NewestSectionId_h731533663"=dword:00000001
+"SectionId1Difficulty0_h3177173843"=hex:31,2d,31,2d,32,00
+"QuestDataManagerEventDifficulty_h2872609471"=dword:00000000
+"QuestDataManagerSubStoryDifficulty_h3677998676"=dword:00000000
+"data_linkin_expired_klabid_h1775992915"=dword:00000000
+"sound_bank4_default_flag_last_id_h3848639115"=dword:000011a8
+
+"news_visibility_h1674106771"=dword:00000000
+
+
+"224515408_h90860828"=-
+"device-id_h1358326749"=-
+"PrefKeyUserId_h260007759"=-
+"belong_guild_h1469920932"=-
+"EventId_h311423012"=-
+"EventQuestId_h1073135682"=-
+"CurrentQuestSectionType_h1313529531"=-
+"ExtraSectionId_h2022215835"=-
+"ExtraStageId_h3014848246"=-
+"arena_missin_select_tab_index_h1343906558"=-
+"arena_mission_new_0_h1192167171"=-
+"LastSelectedAdventCharacterRarity_h1256383478"=-
+"KlabIDAuthCode_h1786663049"=-
+"224515408_h90860828"=-
+"device-id_h1358326749"=-
+"PrefKeyUserId_h260007759"=-
+"Difficulty_h3179608694"=-
+"AreaId_h2503932223"=-
+"StageId_h2176154444"=-
+"NewestSectionId_h731533663"=-
+"SectionId1Difficulty0_h3177173843"=-
+"mypage_team_battle_release_h39934083"=-
+"mypage_arena_release_h3875422194"=-
+"mypage_guild_release_h3941222168"=-
+"belong_guild_h1469920932"=-
+"EventId_h311423012"=-
+"EventQuestId_h1073135682"=-
+"CurrentQuestSectionType_h1313529531"=-
+"ExtraSectionId_h2022215835"=-
+"ExtraStageId_h3014848246"=-
+"arena_missin_select_tab_index_h1343906558"=-
+"arena_mission_new_0_h1192167171"=-
+"LastSelectedAdventCharacterRarity_h1256383478"=-
+"KlabIDAuthCode_h1786663049"=-
+
+
+;End SkippingTutorial
+
+;Mode Unlocking
+
+"mypage_team_battle_release_h39934083"=-
+"mypage_arena_release_h3875422194"=-
+"mypage_guild_release_h3941222168"=-
+"mypage_co_quest_release_h3548769118"=-
+"mypage_tower_quest_release_h2817028713"=-
+"mypage_raid_quest_release_h673362188"=-
+"mypage_saga_quest_release_h2167307814"=-
+"mypage_infinity_quest_release_h802983440"=-
+
+"mypage_team_battle_release_h39934083"=dword:00000001
+"mypage_arena_release_h3875422194"=dword:00000001
+"mypage_guild_release_h3941222168"=dword:00000001
+"mypage_co_quest_release_h3548769118"=dword:00000001
+"mypage_tower_quest_release_h2817028713"=dword:00000001
+"mypage_raid_quest_release_h673362188"=dword:00000001
+"mypage_saga_quest_release_h2167307814"=dword:00000001
+"mypage_infinity_quest_release_h802983440"=dword:00000001
+"option_auto_lock_character_h2120336452"=dword:00000001
+"option_auto_lock_accessory_h2792962365"=dword:00000001
+"browser_startup_h2907241459"=dword:00000000
+"new_player_not_joined_with_guild_h3609734962"=dword:00000000
+;End of mode unlocking
+
+
+;Selecting Global Server
+
+"PrefsKeyUserPolicy_h2432849617"=-
+"SelectedWorld_h3127811630"=-
+"1462325563_h1074105312"=-
+
+"PrefsKeyUserPolicy_h2432849617"=dword:00000001
+"SelectedWorld_h3127811630"=dword:00000002
+"1462325563_h1074105312"=dword:00000005
+
+;End Selecting Global Server
