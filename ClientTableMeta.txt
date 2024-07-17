@@ -15,6 +15,7 @@ ModToolVersionData = {
   PrivateForm_url = "https://raw.githubusercontent.com/xXxTURBOxX/TurboBBSControl/main/PrivateForm.txt",
   PublicForm_url = "https://raw.githubusercontent.com/xXxTURBOxX/TurboBBSControl/main/PublicForm.txt",
   White_List_url = "https://raw.githubusercontent.com/xXxTURBOxX/TurboBBSControl/main/Anti_CE_Whitelist.txt",
+  TableMeta_url = "https://raw.githubusercontent.com/xXxTURBOxX/TurboBBSControl/main/ClientTableMeta.txt",
   TableOwner = {
 "D033129EEC11DCE5A30D581122A903F0__90_DE_80_3D_14_73_Turbo_Premium_1719710981",
 "B4544D569FC55E29024F2DB640EAF85C__00_0C_29_EA_F8_5C_VM Instance 1_Premium_1719710981",
